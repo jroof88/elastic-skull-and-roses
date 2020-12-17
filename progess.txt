@@ -1,0 +1,11 @@
+Web Scraper:
+- Find site with GD archives (probably https://www.dead.net/archives/)
+- Parse out all concerts and metadata about concerts
+- Format into CSV for load into es
+
+Elastic:
+- Figure out how to run elastic (docker? AWS?)
+- Figure out how to load into elastic
+
+FrontEnd:
+- Design cool frontend
