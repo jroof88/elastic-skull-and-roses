@@ -12,7 +12,6 @@ class DeadShow:
         self.year = year
         self.venue = venue
         self.details_url = details_url
-        # self.info_link = info_link
 
     def __str__(self):
         return f"{self.month} {self.day}, {self.year} -- {self.venue} -- {self.details_url}"
